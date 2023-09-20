@@ -107,17 +107,17 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "MovieSips - AI Generated Drinking Games for Movies",
-            live: "https://cshields27.github.io/movie-sips/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/cshields27/movie-sips", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "Favorite Four - NFL Pick 'Em Pools",
+            live: "https://favefour.com", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/cshields27", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
-        }/*,
-        {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock2
         },
+        {
+            title: "MovieSips - AI Generated Drinking Games for Movies",
+            live: "https://cshields27.github.io/movie-sips/",
+            source: "https://github.com/cshields27/movie-sips", 
+            image: mock2
+        }/*,
         {
             title: "Project 3",
             live: "https://paytonpierce.dev",
